@@ -8,8 +8,8 @@ I am Full-Stack developer who graduated from University of British Columbia majo
 - 🔭 I am currently working on developing MyProteinCare web application.
 - 📫 Contact Info: joseph58080@gmail.com
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyCDev)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyCDev)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyCDev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyCDev)
 
 
 

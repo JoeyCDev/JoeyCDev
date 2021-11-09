@@ -9,7 +9,7 @@ I am Full-Stack developer who graduated from University of British Columbia majo
 - 📫 Contact Info: joseph58080@gmail.com
 <br>
 [![JoeyCDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeyCDev)](https://github.com/JoeyCDev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyCDev)](https://github.com/JoeyCDev/github-readme-stats)
+
 
 
 
